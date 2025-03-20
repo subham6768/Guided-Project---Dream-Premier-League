@@ -1,2 +1,10 @@
 # Guided-Project---Dream-Premier-League
-Analyze cricket match data for strategic decision-making. As a Data Scientist for Team Shivalik, you’ll process player stats, correct errors, and perform key calculations to determine winning strategies using Python. Ideal for beginners in data analysis and sports analytics!
+This guided project involves data analysis and decision-making for a cricket match scenario in the Dream Premier League (DPL). As a Data Scientist for Team Shivalik, your task is to analyze the performance of Team Aravali and provide strategic insights.
+
+Key tasks include:
+
+Extracting and processing player statistics from a given dataset.
+Correcting data errors and updating records.
+Performing statistical calculations to determine winning strategies.
+Implementing Python-based data handling and visualization techniques.
+This project is ideal for beginners in data analysis and Python programming, focusing on practical applications in sports analytics.
